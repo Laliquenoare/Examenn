@@ -52,6 +52,11 @@ body {
   height: 324.4px;
 }
 
+
+.person:hover {
+  z-index: 999;
+}
+
 .person img:hover {
   border-radius: 60px;
 }
